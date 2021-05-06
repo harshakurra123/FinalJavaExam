@@ -18,6 +18,7 @@ public class Exception2 {
      */
     public static void main(String[] args) throws ArithmeticException, ArrayIndexOutOfBoundsException {
         // TODO code application logic here
+        System.out.println("answer for Question 8: Harshavardhan Kurra");
         System.out.println("Enter the value: ");
         Scanner scan = new Scanner(System.in);
         int value = scan.nextInt();
